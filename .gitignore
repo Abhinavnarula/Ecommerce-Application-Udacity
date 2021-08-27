@@ -1,5 +1,5 @@
 /.idea/
-/auth-course.iml
-starter_code/target/
+/starter_code/auth-course.iml
+/starter_code/target/
 /.mvn/
-/.vscode
+/.vscode/
