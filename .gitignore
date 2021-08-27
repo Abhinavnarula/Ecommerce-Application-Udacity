@@ -1,4 +1,5 @@
 /.idea/
-/ecommerce-application.iml
-/target/
+/auth-course.iml
+starter_code/target/
 /.mvn/
+/.vscode
