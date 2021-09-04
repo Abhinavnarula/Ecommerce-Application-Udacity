@@ -3,3 +3,8 @@
 /starter_code/target/
 /.mvn/
 /.vscode/
+/starter_code/.apt_generated_tests/
+/starter_code/bin/
+/starter_code/.classpath/
+/starter_code/.factorypath/
+/starter_code/.project/
